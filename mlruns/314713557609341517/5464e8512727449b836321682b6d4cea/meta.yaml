@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/medici/901/team901/mlruns/314713557609341517/5464e8512727449b836321682b6d4cea/artifacts
+end_time: 1730443441004
+entry_point_name: ''
+experiment_id: '314713557609341517'
+lifecycle_stage: active
+run_id: 5464e8512727449b836321682b6d4cea
+run_name: serious-sheep-482
+run_uuid: 5464e8512727449b836321682b6d4cea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730443436665
+status: 3
+tags: []
+user_id: medici

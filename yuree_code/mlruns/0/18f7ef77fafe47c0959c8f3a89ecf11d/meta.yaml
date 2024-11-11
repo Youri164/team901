@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/medici/901/team901/yuree_code/mlruns/0/18f7ef77fafe47c0959c8f3a89ecf11d/artifacts
+end_time: 1730859341743
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 18f7ef77fafe47c0959c8f3a89ecf11d
+run_name: resilient-newt-939
+run_uuid: 18f7ef77fafe47c0959c8f3a89ecf11d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730859227754
+status: 3
+tags: []
+user_id: medici

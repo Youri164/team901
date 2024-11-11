@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/medici/901/team901/yuree_code/mlruns/0/e2caa9bf9e6649c1a4c68f82181b3356/artifacts
+end_time: 1730784766150
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2caa9bf9e6649c1a4c68f82181b3356
+run_name: gentle-ram-193
+run_uuid: e2caa9bf9e6649c1a4c68f82181b3356
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730784669265
+status: 3
+tags: []
+user_id: medici

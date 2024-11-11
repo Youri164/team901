@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/medici/901/team901/yuree_code/mlruns/0/5694abd817334f1d9ec45d67226fa615/artifacts
+end_time: 1730783888378
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5694abd817334f1d9ec45d67226fa615
+run_name: learned-calf-267
+run_uuid: 5694abd817334f1d9ec45d67226fa615
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730783853932
+status: 3
+tags: []
+user_id: medici

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/medici/901/team901/mlruns/314713557609341517/d09b6b56721942d7b8604bf0b451e4e9/artifacts
+end_time: 1730442830623
+entry_point_name: ''
+experiment_id: '314713557609341517'
+lifecycle_stage: active
+run_id: d09b6b56721942d7b8604bf0b451e4e9
+run_name: masked-ram-451
+run_uuid: d09b6b56721942d7b8604bf0b451e4e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730442830576
+status: 4
+tags: []
+user_id: medici

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/medici/901/team901/yuree_code/mlruns/0/05129508f6b34008abb5bf0605e2d56d/artifacts
+end_time: 1730784129367
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05129508f6b34008abb5bf0605e2d56d
+run_name: efficient-midge-428
+run_uuid: 05129508f6b34008abb5bf0605e2d56d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730784096835
+status: 3
+tags: []
+user_id: medici

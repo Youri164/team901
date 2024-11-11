@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/medici/901/team901/mlruns/314713557609341517/7587cf07a0904ee7ae69286bda761f17/artifacts
+end_time: 1730443043064
+entry_point_name: ''
+experiment_id: '314713557609341517'
+lifecycle_stage: active
+run_id: 7587cf07a0904ee7ae69286bda761f17
+run_name: bald-newt-865
+run_uuid: 7587cf07a0904ee7ae69286bda761f17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730443036017
+status: 3
+tags: []
+user_id: medici

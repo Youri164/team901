@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/medici/901/team901/yuree_code/mlruns/0/80c92cdb3cba4f37b2640f8e4201fe93/artifacts
+end_time: 1730874497688
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 80c92cdb3cba4f37b2640f8e4201fe93
+run_name: melodic-stag-208
+run_uuid: 80c92cdb3cba4f37b2640f8e4201fe93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730874378554
+status: 3
+tags: []
+user_id: medici

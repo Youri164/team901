@@ -1,0 +1,19 @@
+artifact_path: fault_type_model
+flavors:
+  lightgbm:
+    code: null
+    data: model.pkl
+    lgb_version: 4.5.0
+    model_class: lightgbm.sklearn.LGBMClassifier
+  python_function:
+    data: model.pkl
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.lightgbm
+    python_version: 3.12.5
+mlflow_version: 2.17.0
+model_size_bytes: 1113948
+model_uuid: b171cd366cf04c4cb8344fb0d67a5805
+run_id: 5464e8512727449b836321682b6d4cea
+utc_time_created: '2024-11-01 06:43:57.022171'

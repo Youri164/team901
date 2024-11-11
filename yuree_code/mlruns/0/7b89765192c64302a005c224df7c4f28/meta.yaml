@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/medici/901/team901/yuree_code/mlruns/0/7b89765192c64302a005c224df7c4f28/artifacts
+end_time: 1730876990293
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b89765192c64302a005c224df7c4f28
+run_name: gifted-ant-460
+run_uuid: 7b89765192c64302a005c224df7c4f28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730876910836
+status: 3
+tags: []
+user_id: medici

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/medici/901/team901/yuree_code/mlruns/0/ad966c6fb0fd44e2878ae9036b6435ae/artifacts
+end_time: 1730790161265
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad966c6fb0fd44e2878ae9036b6435ae
+run_name: bright-bird-340
+run_uuid: ad966c6fb0fd44e2878ae9036b6435ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730789593829
+status: 3
+tags: []
+user_id: medici
