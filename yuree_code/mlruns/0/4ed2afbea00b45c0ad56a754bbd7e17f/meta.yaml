@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/medici/901/team901/yuree_code/mlruns/0/4ed2afbea00b45c0ad56a754bbd7e17f/artifacts
+end_time: 1730786996770
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ed2afbea00b45c0ad56a754bbd7e17f
+run_name: receptive-turtle-705
+run_uuid: 4ed2afbea00b45c0ad56a754bbd7e17f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730786557421
+status: 3
+tags: []
+user_id: medici

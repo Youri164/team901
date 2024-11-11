@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/medici/901/team901/yuree_code/mlruns/0/4b19d5116a914ce3b975aad0929c6027/artifacts
+end_time: 1730963316162
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b19d5116a914ce3b975aad0929c6027
+run_name: bold-dove-1000
+run_uuid: 4b19d5116a914ce3b975aad0929c6027
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730961684853
+status: 3
+tags: []
+user_id: medici

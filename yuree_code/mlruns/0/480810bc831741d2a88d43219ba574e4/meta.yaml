@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/medici/901/team901/yuree_code/mlruns/0/480810bc831741d2a88d43219ba574e4/artifacts
+end_time: 1730862813127
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 480810bc831741d2a88d43219ba574e4
+run_name: wise-hen-754
+run_uuid: 480810bc831741d2a88d43219ba574e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730862808876
+status: 3
+tags: []
+user_id: medici

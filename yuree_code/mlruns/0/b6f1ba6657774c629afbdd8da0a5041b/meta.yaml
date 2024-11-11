@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/medici/901/team901/yuree_code/mlruns/0/b6f1ba6657774c629afbdd8da0a5041b/artifacts
+end_time: 1730794186376
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b6f1ba6657774c629afbdd8da0a5041b
+run_name: intelligent-lamb-700
+run_uuid: b6f1ba6657774c629afbdd8da0a5041b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730793715307
+status: 3
+tags: []
+user_id: medici

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/medici/901/team901/yuree_code/mlruns/0/ff3f9caaf3ea45c68c93ee1942ee336a/artifacts
+end_time: 1730860926301
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff3f9caaf3ea45c68c93ee1942ee336a
+run_name: lyrical-wolf-671
+run_uuid: ff3f9caaf3ea45c68c93ee1942ee336a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730860517961
+status: 3
+tags: []
+user_id: medici
